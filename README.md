@@ -6,3 +6,5 @@ Using:
     <li>Bootstrap</li>
     <li>Bootstrap</li>    
 </ul>
+
+example http://rss.wiscost.com.ua/
